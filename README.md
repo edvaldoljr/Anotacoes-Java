@@ -17,3 +17,4 @@
 - Aula 13 - Formatando Saída
 - Aula 14 - Entendendo Pacotes Java
 - Aula 15 - Java: if/else e o operador ternário
+- Aula 16  - Estruturas de Repetição
