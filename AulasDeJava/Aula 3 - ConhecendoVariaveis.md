@@ -58,8 +58,8 @@ public class ConhecendoVariaveis {
      short idadeShort = 32767;
      int idadeDoAluno = 2147483;
      long numeroGrande = 263;
-     float pontoFlutuante = 3.40282346638528860e;
-     double pontoFlutuanteDobroDeCapacidade = 1.79769313486231570e;
+     float pontoFlutuante = 3.40282346638528860F;
+     double pontoFlutuanteDobroDeCapacidade = 1.79769313486231570D;
     }
 }
 ```
