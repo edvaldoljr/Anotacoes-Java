@@ -18,3 +18,4 @@
 - Aula 14 - [Entendendo Pacotes Java](https://github.com/edvaldoljr/Resumo-Aulas-Maratona-Java-Virado-No-Jiraya/blob/master/AulasDeJava/Aula14%20-%20PacotesJava.md)
 - Aula 15 - [Java: if/else e o operador ternário](https://github.com/edvaldoljr/Resumo-Aulas-Maratona-Java-Virado-No-Jiraya/blob/master/AulasDeJava/Aula15%20-%20ifelse%20e%20o%20operador%20tern%C3%A1rio.md)
 - Aula 16  - [Estruturas de Repetição](https://github.com/edvaldoljr/Resumo-Aulas-Maratona-Java-Virado-No-Jiraya/blob/master/AulasDeJava/Aula16%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o.md)
+- Aula 17 - Estrutura Condicionail Switch
